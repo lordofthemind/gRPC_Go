@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output directories
+bin/
+out/
+
+# Vendor directory (if not using go modules)
+vendor/
+
+# GoLand project files
+.idea/

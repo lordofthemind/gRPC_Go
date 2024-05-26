@@ -1,0 +1,12 @@
+.
+├── client.go
+├── go.mod
+├── go.sum
+├── hello
+│   ├── hello.pb.go
+│   └── hello_grpc.pb.go
+├── hello.proto
+├── server.go
+└── tree.txt
+
+2 directories, 8 files
